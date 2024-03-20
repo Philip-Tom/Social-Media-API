@@ -58,6 +58,9 @@ Discover the power of our API through its intuitive routes:
 
 Dive deeper into the functionalities of our API with our interactive walkthrough video!
 
+https://github.com/Philip-Tom/Social-Media-API/assets/147503829/e14e6f91-8ec5-40da-94a6-40c3ed33fc43
+
+
 ## Made with ❤️
 
 - **Dependencies:** dotenv, express, mongoose
